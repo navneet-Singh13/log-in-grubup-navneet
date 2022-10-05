@@ -1,0 +1,46 @@
+body{
+    background-image: linear-gradient(to right, #4c2a00, #3a2201, #2a1a01, #1b1101, #030201);
+}
+#log-in{
+    border-radius: 30px;
+    padding: 60px;
+    border: white;
+    border-width: 30px;
+    border-style:double;
+    background-color:black;
+    height: 350px;
+    width: 600px;
+    
+    margin-top: 150px;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+#label{
+    color: white ;
+    font-family: 'Gemunu Libre', sans-serif;
+}
+#name{ 
+    height: 100px;
+    background-color: black;
+    position: relative;
+    text-align: center;
+    width: 100%;
+    border-radius: 50px;
+}
+#grub{ 
+    padding: 30px;
+    color: white;
+    font-family: 'Courgette', cursive;
+}
+#sub{ 
+    color: white;
+    background-color: #3a2201;
+    border: 0px;
+   
+
+}
+#sub:hover{ 
+    background-color: white;
+    color: #3a2201;
+}
